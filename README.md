@@ -3,13 +3,13 @@ Thibaud Robillard
 32ans, Francais
 Responsable commercial international en reconversion pour devenir Developpeur Web Full Stack.
 
-##Langages
+## Langages
 HTML/CSS
 Javascript
 PHP
 SQL
 
-##Outils
+## Outils
 GIT
 Symfony
 React
