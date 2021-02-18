@@ -1,8 +1,16 @@
 #Qui suis-je ?
-1m80 blond yeux bleux
-j'adore la Coree et l asie en generale
+Thibaud Robillard
+32ans, Francais
+Responsable commercial international en reconversion pour devenir Developpeur Web Full Stack.
 
-php
-css
-java
-js
+##Langages
+HTML/CSS
+Javascript
+PHP
+SQL
+
+##Outils
+GIT
+Symfony
+React
+MYSQLT
