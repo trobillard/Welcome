@@ -14,3 +14,7 @@ GIT
 Symfony
 React
 MYSQLT
+
+### Objectifs
+web dev full stack
+
